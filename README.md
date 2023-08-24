@@ -5,3 +5,4 @@
 - 📫 How to reach me:
 - mail: adamwojcik1337@gmail.com;
 - dc: shift_kot#6038
+- linkedin: https://www.linkedin.com/in/adam-w%C3%B3jcik-177690210/
