@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shift/ aka Adam Wójcik
+- 👋 Hi, I’m @Shifteys/ aka Adam Wójcik
 - 👀 I’m interested in programmin, databases, learning more!
 - 🌱 I’m currently learning at PJATK in Warsaw /Software and Database Engeneering 
 - 💞️ I’m looking to collaborate on any projects that include databases, C#, .net, Java and many more because I learn fast!
